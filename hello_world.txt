@@ -1,1 +1,2 @@
 "Hi there, playing with git"
+"Add, commit, push"
